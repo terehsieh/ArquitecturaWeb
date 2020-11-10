@@ -22,7 +22,7 @@ TP4: SpringBoot y Microservicios
 - Despensa online
 - diagramas de objetos y el DER
 - Tablas:client, bill, billDetails, Product 
-- Servicios: ABM, lista de estudiantes segun criterio, getEstudianteByid, 
+- Servicios: ABM desde REST, usando endpoints 
 - reporte:ventas por día, porducto mas vendido, clientes monto total por compra
 - interfaz grafica, e invocacion de los servicios REST
 
