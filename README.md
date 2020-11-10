@@ -1,6 +1,5 @@
 # Arquitecturas Web
 
-Arquitecturas Web
   
 TP1: JDBC, DAO
 - JDBC, adaptado a los distintos tipos de BBDD
